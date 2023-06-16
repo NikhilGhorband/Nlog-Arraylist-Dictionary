@@ -1,0 +1,15 @@
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.csproj.AssemblyReference.cache
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.AssemblyInfoInputs.cache
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.AssemblyInfo.cs
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.csproj.CoreCompileInputs.cache
+D:\DictionaryOperations\bin\Debug\net6.0\DictionaryOperations.exe
+D:\DictionaryOperations\bin\Debug\net6.0\DictionaryOperations.deps.json
+D:\DictionaryOperations\bin\Debug\net6.0\DictionaryOperations.runtimeconfig.json
+D:\DictionaryOperations\bin\Debug\net6.0\DictionaryOperations.dll
+D:\DictionaryOperations\bin\Debug\net6.0\DictionaryOperations.pdb
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.dll
+D:\DictionaryOperations\obj\Debug\net6.0\refint\DictionaryOperations.dll
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.pdb
+D:\DictionaryOperations\obj\Debug\net6.0\DictionaryOperations.genruntimeconfig.cache
+D:\DictionaryOperations\obj\Debug\net6.0\ref\DictionaryOperations.dll
