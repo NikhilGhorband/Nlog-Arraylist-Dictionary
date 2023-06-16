@@ -1,0 +1,15 @@
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.csproj.AssemblyReference.cache
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.AssemblyInfoInputs.cache
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.AssemblyInfo.cs
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.csproj.CoreCompileInputs.cache
+D:\ArrayListCrud\bin\Debug\net6.0\ArrayListCrud.exe
+D:\ArrayListCrud\bin\Debug\net6.0\ArrayListCrud.deps.json
+D:\ArrayListCrud\bin\Debug\net6.0\ArrayListCrud.runtimeconfig.json
+D:\ArrayListCrud\bin\Debug\net6.0\ArrayListCrud.dll
+D:\ArrayListCrud\bin\Debug\net6.0\ArrayListCrud.pdb
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.dll
+D:\ArrayListCrud\obj\Debug\net6.0\refint\ArrayListCrud.dll
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.pdb
+D:\ArrayListCrud\obj\Debug\net6.0\ArrayListCrud.genruntimeconfig.cache
+D:\ArrayListCrud\obj\Debug\net6.0\ref\ArrayListCrud.dll
